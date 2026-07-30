@@ -6,7 +6,7 @@ Most of my professional work has been built for internal products and private sy
 
 ## What I work with
 
-React · TypeScript · JavaScript · Node.js · Python · UI/UX and product thinking
+React · TypeScript · JavaScript · Node.js · Python · and a little Java
 
 ## Selected public work
 
