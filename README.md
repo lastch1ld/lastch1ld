@@ -26,4 +26,4 @@ A safety-hardened fork of a Hetzner Cloud MCP server, adding permission tiers, e
 
 ## Beyond the keyboard
 
-I have a soft spot for Switzerland and Japan, and I always enjoy learning more about both.
+I have a soft spot for Switzerland, Japan, cars and Design and I always enjoy learning more about the topics.
