@@ -10,8 +10,8 @@ React · TypeScript · JavaScript · Node.js · Python · and a little Java
 
 ## Selected public work
 
-### Tripatross - Travelapp (Coming soon)
-https://www.tripatross.com/
+### Tripatross - Travelapp ([Coming soon](https://www.tripatross.com/))
+
 
 ### [debtrank-globe](https://github.com/lastch1ld/debtrank-globe)
 
