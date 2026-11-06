@@ -10,6 +10,9 @@ React · TypeScript · JavaScript · Node.js · Python · and a little Java
 
 ## Selected public work
 
+### Tripatross - Travelapp (Coming soon)
+https://www.tripatross.com/
+
 ### [debtrank-globe](https://github.com/lastch1ld/debtrank-globe)
 
 An interactive 3D simulation of sovereign-debt contagion using real World Bank and BIS data, with DebtRank and Eisenberg–Noe financial-risk models.
@@ -23,7 +26,3 @@ An approval-driven application that researches products and shipping, prepares e
 ### [Hetzner MCP Guarded](https://github.com/lastch1ld/hetzner-mcp-guarded)
 
 A safety-hardened fork of a Hetzner Cloud MCP server, adding permission tiers, explicit confirmations, dry runs, destructive-call limits, and audit logging.
-
-## Beyond the keyboard
-
-I have a soft spot for Switzerland, Japan, cars and Design and I always enjoy learning more about the topics.
